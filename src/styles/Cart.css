@@ -1,0 +1,8 @@
+.cart{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    background-color:burlywood;
+    padding: 10px;
+    width: 20%;
+}
